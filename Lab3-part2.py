@@ -3,6 +3,7 @@
 # 60-69 = C
 # <=59 = F
 Score1 = int(input("Enter Score for INS 405:"))
+
 Score2 = int(input("Enter Score for BUIS 360:"))
 Score3 = int(input("Enter Score for DANL 470:"))
 # converted all input from user to integer and added display preference to print
